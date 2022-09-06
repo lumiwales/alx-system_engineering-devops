@@ -2,27 +2,12 @@
 
 
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**.
-
-
-
-## Technologies
-
-* Scripts written in Bash 4.3.11(1)
-
-* Tested on Ubuntu 14.04 LTS
-
-
+Project done during **Full Stack Software Engineering studies** at **ALX **. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**.
 
 ## Files
 
 All of the following files are scripts:
 
-
-
-| Filename | Description |
-
-| -------- | ----------- |
 
 | `0-alias` | Creates an alias |
 
